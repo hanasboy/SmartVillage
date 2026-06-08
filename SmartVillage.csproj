@@ -10,7 +10,7 @@
 
   <ItemGroup>
   <Reference Include="StardewModdingAPI">
-    <HintPath>Libs/SMAPI.dll</HintPath>
+    <HintPath>Libs/Smapi.Toolkit.dll</HintPath>
   </Reference>
   <Reference Include="GenericModConfigMenu">
     <HintPath>Libs/GenericModConfigMenu.dll</HintPath>
