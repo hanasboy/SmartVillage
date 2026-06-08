@@ -9,8 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="StardewModdingAPI" Version="4.5.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  <Reference Include="StardewModdingAPI">
+    <HintPath>Libs/SMAPI.Toolkit.dll</HintPath>
+  </Reference>
   </ItemGroup>
 
 </Project>
