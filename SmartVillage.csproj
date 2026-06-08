@@ -10,10 +10,10 @@
 
   <ItemGroup>
   <Reference Include="StardewModdingAPI">
-    <HintPath>Libs/SMAPI.Toolkit.dll</HintPath>
+    <HintPath>Libs/SMAPI.dll</HintPath>
   </Reference>
   <Reference Include="GenericModConfigMenu">
-    <HintPath>Libs/GMCM.dll</HintPath>
+    <HintPath>Libs/GenericModConfigMenu.dll</HintPath>
   </Reference>
   <Reference Include="Newtonsoft.Json">
     <HintPath>Libs/Newtonsoft.Json.dll</HintPath>
