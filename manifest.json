@@ -1,0 +1,11 @@
+
+{
+  "Name": "SmartVillage",
+  "Author": "Sư huynh Phương Đặng",
+  "Version": "1.0.0",
+  "Description": "Smart NPC AI + dynamic quests mod for Stardew Valley Android",
+  "UniqueID": "phuongdang.smartvillage",
+  "EntryDll": "SmartVillage.dll",
+  "MinimumApiVersion": "4.5.2",
+  "UpdateKeys": []
+}
