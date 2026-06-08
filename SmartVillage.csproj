@@ -12,6 +12,12 @@
   <Reference Include="StardewModdingAPI">
     <HintPath>Libs/SMAPI.Toolkit.dll</HintPath>
   </Reference>
-  </ItemGroup>
+  <Reference Include="GenericModConfigMenu">
+    <HintPath>Libs/GMCM.dll</HintPath>
+  </Reference>
+  <Reference Include="Newtonsoft.Json">
+    <HintPath>Libs/Newtonsoft.Json.dll</HintPath>
+  </Reference>
+</ItemGroup>
 
 </Project>
